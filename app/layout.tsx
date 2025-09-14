@@ -7,9 +7,9 @@ metadataBase: new URL('https://vidphim.eu.org/'),
 alternates: {
 canonical: 'https://vidphim.eu.org/'
 },
-title: 'facebook.com;',
+title: '&#8203;',
 description:
-'&#8203;',
+'fcebook.com',
 verification: {
 // tambahkan token verifikasi di sini
 other: {
