@@ -3,9 +3,9 @@ import type { Metadata } from 'next'
 
 
 export const metadata: Metadata = {
-metadataBase: new URL('https://www.serbyte.net/'),
+metadataBase: new URL('https://center-next99.eu.org/'),
 alternates: {
-canonical: 'https://www.serbyte.net/'
+canonical: 'https://center-next99.eu.org/'
 },
 title: 'Seattle Web Design & Technical SEO Agency | Serbyte Development',
 description:
@@ -13,7 +13,7 @@ description:
 verification: {
 // tambahkan token verifikasi di sini
 other: {
-"facebook-domain-verification": ["REPLACE_WITH_FACEBOOK_TOKEN"],
+"facebook-domain-verification": ["kk3nu12ws6v9t2ldzzl3odp04hxiun"],
 google: 'REPLACE_WITH_GOOGLE_TOKEN',
 yandex: 'REPLACE_WITH_YANDEX_TOKEN'
 }
