@@ -3,17 +3,17 @@ import type { Metadata } from 'next'
 
 
 export const metadata: Metadata = {
-metadataBase: new URL('https://center-next99.eu.org/'),
+metadataBase: new URL('https://vidphim.eu.org/'),
 alternates: {
-canonical: 'https://center-next99.eu.org/'
+canonical: 'https://vidphim.eu.org/'
 },
-title: '&#8203;',
+title: 'facebook.com;',
 description:
 '&#8203;',
 verification: {
 // tambahkan token verifikasi di sini
 other: {
-"facebook-domain-verification": ["kk3nu12ws6v9t2ldzzl3odp04hxiun"],
+"facebook-domain-verification": ["85sceya1mcjgjhod0d3cty6kinosnn"],
 google: 'REPLACE_WITH_GOOGLE_TOKEN',
 yandex: 'REPLACE_WITH_YANDEX_TOKEN'
 }
