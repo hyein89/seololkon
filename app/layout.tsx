@@ -7,9 +7,9 @@ metadataBase: new URL('https://center-next99.eu.org/'),
 alternates: {
 canonical: 'https://center-next99.eu.org/'
 },
-title: 'Seattle Web Design & Technical SEO Agency | Serbyte Development',
+title: '&#8203;',
 description:
-'Serbyte Development: A Seattle web design & technical SEO agency helping businesses grow with custom websites, AI automation, and high-performance SEO strategies.',
+'&#8203;',
 verification: {
 // tambahkan token verifikasi di sini
 other: {
