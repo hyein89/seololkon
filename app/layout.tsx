@@ -9,7 +9,7 @@ canonical: 'https://vidphim.eu.org/'
 },
 title: '&#8203;',
 description:
-'fcebook.com',
+'&#8203;',
 verification: {
 // tambahkan token verifikasi di sini
 other: {
